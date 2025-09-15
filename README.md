@@ -1,4 +1,5 @@
 # Építőipari ügyfélkezelő rendszer – Telepítési útmutató
+## Alfa állapot, nagyon sok dolog nem pontos, még a telepítés sem. Az adatbázis sql-je eléggé hiányos, majd később lesz pótolva.
 
 ## 📦 Követelmények
 
@@ -46,3 +47,4 @@
 
 Fejlesztő: [Te]  
 Email: suckee86@gmail.com  
+
